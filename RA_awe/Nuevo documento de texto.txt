@@ -1,0 +1,2 @@
+LOADING TEXTURE al cargar (awe-standard.js, line 2949)
+generacuion del Canvas id=awe_canvas-0 (awe-standard.js line 1061)
